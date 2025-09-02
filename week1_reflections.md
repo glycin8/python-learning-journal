@@ -1,0 +1,1 @@
+We haven't learned a ton about Python this week, but we did get a solid breakdown on how a computer works and what constitutes a computer. The answer to the latter is that no one knows. I did learn one thing though- and it is that a lot of AI tooling uses Python. I never connected those dots.
